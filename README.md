@@ -1,16 +1,11 @@
-# first_flutter
+# First Flutter App (Codelab)
 
-A new Flutter project.
+My first flutter made by following the official flutter codelab. 
 
-## Getting Started
+Codelab link:
+[Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-20230304-025226.png](https://i.postimg.cc/4d74nWWH/Screenshot-20230304-025226.png)](https://postimg.cc/MMwJFm2z)
+[![Screenshot-20230304-025242.png](https://i.postimg.cc/L8QMfzYt/Screenshot-20230304-025242.png)](https://postimg.cc/68ZSx4hq)
